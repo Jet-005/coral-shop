@@ -1,7 +1,7 @@
 {
   "miniprogramRoot": "./",
-  "projectname": "coral-shop",
-  "description": "coral-shop",
+  "projectname": "myApp",
+  "description": "",
   "appid": "touristappid",
   "setting": {
     "urlCheck": true,

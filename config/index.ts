@@ -1,5 +1,5 @@
 const config = {
-  projectName: 'coral-shop',
+  projectName: 'myApp',
   date: '2024-1-14',
   designWidth: 375,
   deviceRatio: {
@@ -19,10 +19,10 @@ const config = {
     options: {
     }
   },
-  framework: 'React',
+  framework: 'react',
   compiler: {
-    type: 'Webpack5',
-    prebundle: { enable: false }
+    type: 'webpack5',
+    prebundle: { enable: false, force: true }
   },
   mini: {
     postcss: {

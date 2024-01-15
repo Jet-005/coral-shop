@@ -1,8 +1,8 @@
 {
-  "name": "coral-shop",
+  "name": "myApp",
   "version": "1.0.0",
   "private": true,
-  "description": "coral-shop",
+  "description": "",
   "templateInfo": {
     "name": "react-NutUI",
     "typescript": true,
